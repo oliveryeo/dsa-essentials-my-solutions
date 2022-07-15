@@ -2,18 +2,17 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+vector<int> kRotate(vector<int> a, int k){
+    // your code  goes here
+    
+}
+
 
 int main(){
-	// your code goes here
-    int x = 54;
+
+    int x = 2;
 
     vector<int> arr = {10, 22, 28, 29, 30, 40};
-
-    pair<int, int> test;
-
-    test = closestSum(arr, x);
-    
-    cout << test.first << " and " << test.second << endl;
 
 	return 0;
 }
